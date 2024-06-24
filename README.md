@@ -2,4 +2,4 @@
 
 A Website for Custom PC Building
 
-A Conestoga CPA'24 Projects
+A Conestoga CPA'24 Project
